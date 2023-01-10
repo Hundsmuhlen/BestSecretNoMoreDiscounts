@@ -1,2 +1,0 @@
-There is no data being stored by this program.
-The program will modify data of the website bestsecret.com locally on the Users browser.
